@@ -14,6 +14,7 @@
   <img alt="CSS3" aling="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" aling="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="GML" aling="center" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/thumbnail_gm_logo.png?1696004555" width="28px" height="28px"/>
+  <img align="right" alt="Rafa-pic" height="150px" width="150px"style="border-radius:50px;" src="https://im4.ezgif.com/tmp/ezgif-4-d50b7ab0a2.gif">
 </div>
 
 <h2>Contact and Social Media:</h2>
